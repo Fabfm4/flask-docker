@@ -1,0 +1,10 @@
+# Core
+Flask>=0.12.2,<0.12.3
+psycopg2>=2.6,<2.7
+Flask-SQLAlchemy>=2.3.1,<2.3.2
+Flask-Migrate>=2.1.1,<2.1.2
+Flask-Script==2.0.6
+flask-restful==0.3.6
+
+# Server
+gunicorn==19.6.0
