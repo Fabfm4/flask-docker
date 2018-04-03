@@ -1,1 +1,1 @@
-from .models import TimeStampedMixin, CatalogueMixin  # noqa
+from .models import TimeStampedMixin, CatalogueMixin, UserMixin  # noqa

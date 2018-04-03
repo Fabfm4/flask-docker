@@ -5,6 +5,7 @@ Flask-SQLAlchemy>=2.3.1,<2.3.2
 Flask-Migrate>=2.1.1,<2.1.2
 Flask-Script==2.0.6
 flask-restful==0.3.6
+flask-bcrypt==0.7.1
 
 # Server
 gunicorn==19.6.0
